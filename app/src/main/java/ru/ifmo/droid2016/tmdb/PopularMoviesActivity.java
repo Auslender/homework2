@@ -24,10 +24,15 @@ import ru.ifmo.droid2016.tmdb.model.Movie;
 import ru.ifmo.droid2016.tmdb.utils.MoviesRecyclerAdapter;
 import ru.ifmo.droid2016.tmdb.utils.RecylcerDividersDecorator;
 
-/**
- * Экран, отображающий список популярных фильмов из The Movie DB.
- */
 //Hello from the past
+//Hello from the past
+//Hello from the past
+//Hello from the past
+//Hello from the past
+//Hello from the past
+//Hello from the past
+//Hello from the past
+
 public class PopularMoviesActivity extends AppCompatActivity
         implements LoaderManager.LoaderCallbacks<LoadResult<List<Movie>>>{
 
